@@ -25,6 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
+    For reusing objects at any time you want.
                    DESC
 
   spec.homepage     = "https://github.com/zhizi-z/LZReusePool"
